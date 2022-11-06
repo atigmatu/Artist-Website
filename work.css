@@ -1,0 +1,38 @@
+h1{
+  color:#2b2a21;
+  font-size: 48px;
+  font-family: "courier new";
+}
+
+body{
+  background-color: #edebda;
+  cursor: grab;
+  font-size: 26px;
+  font-family: "courier new";
+}
+
+p{
+  color: #2b2a21;
+  font-family: "courier new";
+}
+
+a{
+  text-decoration: none;
+  color:#2b2a21;
+  font-family: "courier new";
+}
+
+a:visited {
+  text-decoration: none;
+  color:#2b2a21;
+}
+
+a:hover{
+  color: #fcba03;
+}
+
+#back{
+  position: absolute;
+  left:50;
+  top: 150;
+}
