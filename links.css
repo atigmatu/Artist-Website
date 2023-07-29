@@ -1,32 +1,87 @@
 h1{
-  color:gray;
-  font-size: 48px;
-  font-family: "courier new";
+  color:black;
+  font-size: 56px;
+  font-family: "Luminari";
 }
 
 body{
-  background-color: #edebda;
+  background-color: white;
   cursor: grab;
-  font-size: 30px;
-  font-family: "courier new";
 }
 
 p{
   color: #2b2a21;
-  font-family: "courier new";
 }
 
 a{
   text-decoration: none;
-  color:#2b2a21;
-  font-family: "courier new";
+  color:black;
 }
 
 a:visited {
   text-decoration: none;
-  color:#2b2a21;
+  color:black;
 }
 
 a:hover{
   color: #fcba03;
+}
+
+
+#head{
+  height: 10;
+  background-color: #fecc3c;
+  border: 0;
+}
+
+#paper{
+  font-family: "century schoolbook";
+  top: 50;
+  left: 52;
+  position: absolute;
+  font-size:20;
+}
+
+#since{
+  position: absolute;
+  font-family: "century schoolbook";
+  top: 65;
+  right: 67;
+  font-size: 17;
+}
+
+#art{
+  font-size: 30;
+  position: absolute;
+  top: 250;
+  left:450;
+}
+
+#man{
+  position: absolute;
+  left: 50;
+  top: 275;
+}
+
+#devoted{
+  position: absolute;
+  left: 490;
+  top: 325;
+  color: gray;
+}
+
+#artist{
+  position: absolute;
+  left: 450;
+  top: 350;
+}
+
+button{
+  background-color: #fecc3c;
+  font-family: "century schoolbook";
+  font-size: 20px;
+  width: 145;
+  position: absolute;
+  top: 180;
+  right: 62;
 }
