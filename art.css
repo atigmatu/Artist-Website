@@ -1,0 +1,152 @@
+h1{
+  color:black;
+  font-size: 56px;
+  font-family: "Luminari";
+}
+
+body{
+  background-color: white;
+  cursor: grab;
+}
+
+p{
+  color: #2b2a21;
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
+
+a:visited {
+  text-decoration: none;
+  color:black;
+}
+
+a:hover{
+  color: #fcba03;
+}
+
+
+#head{
+  height: 10;
+  background-color: #fecc3c;
+  border: 0;
+}
+
+#paper{
+  font-family: "century schoolbook";
+  top: 50;
+  left: 52;
+  position: absolute;
+  font-size:20;
+}
+
+#since{
+  position: absolute;
+  font-family: "century schoolbook";
+  top: 65;
+  right: 67;
+  font-size: 17;
+}
+
+#art{
+  font-size: 30;
+  position: absolute;
+  top: 250;
+  left:450;
+}
+
+#man{
+  position: absolute;
+  left: 50;
+  top: 325;
+}
+
+#devoted{
+  position: absolute;
+  left: 250;
+  top: 275;
+}
+
+#artist{
+  position: absolute;
+  left: 550;
+  top: 340;
+}
+
+#key{
+  position: absolute;
+  left: 690;
+  top: 275;
+}
+
+#best{
+  position: absolute;
+  left: 975;
+  top: 325;
+}
+
+#mug{
+  position: absolute;
+  left: 1140;
+  top: 275;
+}
+
+#results{
+  position: absolute;
+  left: 50;
+  top: 515;
+}
+
+#invis{
+  position: absolute;
+  left: 250;
+  top: 450;
+}
+
+#made{
+  position: absolute;
+  left: 550;
+  top: 500;
+}
+
+#print{
+  position: absolute;
+  left: 690;
+  top: 450;
+}
+
+#hold{
+  position: absolute;
+  left: 975;
+  top: 515;
+}
+
+#texas{
+  position: absolute;
+  left: 1140;
+  top: 450;
+}
+
+#card{
+  position: absolute;
+  left: 50;
+  top: 700;
+}
+
+#cards{
+  position: absolute;
+  left: 250;
+  top: 635;
+}
+
+button{
+  background-color: #fecc3c;
+  font-family: "century schoolbook";
+  font-size: 20px;
+  width: 145;
+  position: absolute;
+  top: 180;
+  right: 62;
+}
