@@ -50,37 +50,6 @@ a:hover{
   font-size: 17;
 }
 
-#art{
-  font-size: 35;
-}
-
-#key{
-  position: absolute;
-}
-
-#text{
-  position: absolute;
-  right: 6;
-  top: 825;
-}
-
-#small{
-  position: absolute;
-  top: 1170;
-  right: 95;
-}
-
-#green{
-  position: absolute;
-  top:1430;
-}
-
-#red{
-  position: absolute;
-  top:1430;
-  right: -25;
-}
-
 button{
   background-color: #fecc3c;
   font-family: "century schoolbook";

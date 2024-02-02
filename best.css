@@ -27,7 +27,6 @@ a:hover{
   color: #fcba03;
 }
 
-
 #head{
   height: 10;
   background-color: #fecc3c;
@@ -52,33 +51,11 @@ a:hover{
 
 #art{
   font-size: 35;
+  font-family: "century schoolbook";
 }
 
-#key{
-  position: absolute;
-}
-
-#text{
-  position: absolute;
-  right: 6;
-  top: 825;
-}
-
-#small{
-  position: absolute;
-  top: 1170;
-  right: 95;
-}
-
-#green{
-  position: absolute;
-  top:1430;
-}
-
-#red{
-  position: absolute;
-  top:1430;
-  right: -25;
+#glitch{
+  height: 800px;
 }
 
 button{

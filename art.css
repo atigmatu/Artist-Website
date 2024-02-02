@@ -59,25 +59,25 @@ a:hover{
 
 #man{
   position: absolute;
-  left: 50;
+  left: 30;
   top: 325;
 }
 
 #devoted{
   position: absolute;
-  left: 250;
+  left: 200;
   top: 275;
-}
-
-#artist{
-  position: absolute;
-  left: 550;
-  top: 340;
 }
 
 #key{
   position: absolute;
-  left: 690;
+  left: 670;
+  top: 275;
+}
+
+#mug{
+  position: absolute;
+  left: 1140;
   top: 275;
 }
 
@@ -87,40 +87,22 @@ a:hover{
   top: 325;
 }
 
-#mug{
+#artist{
   position: absolute;
-  left: 1140;
-  top: 275;
-}
-
-#results{
-  position: absolute;
-  left: 50;
-  top: 515;
+  left: 500;
+  top: 340;
 }
 
 #invis{
   position: absolute;
-  left: 250;
+  left: 200;
   top: 450;
-}
-
-#made{
-  position: absolute;
-  left: 550;
-  top: 500;
 }
 
 #print{
   position: absolute;
-  left: 690;
+  left: 670;
   top: 450;
-}
-
-#hold{
-  position: absolute;
-  left: 975;
-  top: 515;
 }
 
 #texas{
@@ -129,17 +111,133 @@ a:hover{
   top: 450;
 }
 
-#card{
+#made{
   position: absolute;
-  left: 50;
-  top: 700;
+  left: 500;
+  top: 500;
+}
+
+#hold{
+  position: absolute;
+  left: 975;
+  top: 515;
+}
+
+#results{
+  position: absolute;
+  left: 30;
+  top: 515;
 }
 
 #cards{
   position: absolute;
-  left: 250;
+  left: 200;
   top: 635;
 }
+
+#hundred{
+  position: absolute;
+  left: 670;
+  top: 635;
+}
+
+#paint{
+  position: absolute;
+  left: 1140;
+  top: 635;
+}
+
+#card{
+  position: absolute;
+  left: 30;
+  top: 700;
+}
+
+#cotton{
+  position: absolute;
+  left: 500;
+  top: 700;
+}
+
+
+#signs{
+  position: absolute;
+  left: 975;
+  top: 700;
+}
+
+#queen{
+  position: absolute;
+  left: 200;
+  top: 820;
+}
+
+#kite{
+  position: absolute;
+  left: 670;
+  top: 820;
+}
+
+#zero{
+  position: absolute;
+  left: 1140;
+  top: 820;
+}
+
+#hand{
+  position: absolute;
+  left: 30;
+  top: 885;
+}
+
+#plane{
+  position: absolute;
+  left: 500;
+  top: 885;
+}
+
+#game{
+  position: absolute;
+  left: 975;
+  top: 885;
+}
+
+#fish{
+  position: absolute;
+  left: 30;
+  top: 1070;
+}
+
+#pallet{
+  position: absolute;
+  left: 500;
+  top: 1070;
+}
+
+#close{
+  position: absolute;
+  left:975;
+  top: 1070;
+}
+
+#reel{
+  position: absolute;
+  left: 200;
+  top: 1005;
+}
+
+#pal{
+  position: absolute;
+  left: 670;
+  top: 1005;
+}
+
+#for{
+  position: absolute;
+  left: 1140;
+  top: 1005;
+}
+
 
 button{
   background-color: #fecc3c;

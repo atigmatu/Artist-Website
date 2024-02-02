@@ -31,10 +31,10 @@ a:hover{
 
 #glitch{
   position: absolute;
-  height: 850px;
-  width: 1500px;
+  height: 600px;
+  width: 1000px;
   left: 20;
-  bottom: 25;
+  bottom: 40;
 }
 
 #hub{
