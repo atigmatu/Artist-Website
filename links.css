@@ -59,8 +59,8 @@ a:hover{
 
 #man{
   position: absolute;
-  left: 50;
-  top: 275;
+  left: 20;
+  top: 250;
 }
 
 #devoted{
@@ -74,6 +74,13 @@ a:hover{
   position: absolute;
   left: 450;
   top: 350;
+}
+
+#describe{
+  position: absolute;
+  bottom: 15;
+  left: 20;
+  color: gray;
 }
 
 button{
